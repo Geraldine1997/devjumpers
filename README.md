@@ -1,7 +1,7 @@
 Cree mi REPOSITORIO "DEVJUMPERS" en GITHUB
   
 Clone mi repositorio:     
-$ git clone https://github.com/Geraldine1997/devjumpers.git
+$ git clone https://github.com/Geraldine1997/devjumpers.git   
 
 Ingrese al main del repositorio:    
 $ cd devjumpers  
