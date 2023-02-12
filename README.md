@@ -104,10 +104,10 @@ $ git log --oneline --decorate --all --graph
 * 603e6fe (origin/main) .gitignore y creacion de archivo 1.txt     
 * 16ac070 commit inicial      
    
-**FINALIZANDO**
-$ git add .     
-$ git commit -m "trabajo terminado"   
-$ git push
+**FINALIZANDO**   
+$ git add .       
+$ git commit -m "trabajo terminado"    
+$ git push     
 
 
 
